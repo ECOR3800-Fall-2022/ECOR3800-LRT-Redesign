@@ -3,7 +3,7 @@ This project is for the class ECOR3800 - Engineering Economics - Fall 2022 - Car
 
 The purpose of this project is to develop a Request for Proposals (RFP) for the scope of the feasibility of the redesign, following the request of the Ottawa Light rail transit (LRT). The redesign, with the descending order of importance, includes:
 
-- Providing infrastructure for bicycles to park at the station that could serve the student population as well as the community in the Old Ottawa South. (this is the #1 proposal)
+- Providing infrastructure for bicycles to park at the station that could serve the student population as well as the community in the Old Ottawa South.
 
 - Supporting small start-up businesses, specifically food trucks that could provide much-needed alternative food options to the Carleton community. 
 
